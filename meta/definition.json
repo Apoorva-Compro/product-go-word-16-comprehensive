@@ -50,6 +50,21 @@
                         "tracking": true
                       }
                     ]
+                  },
+				  {
+                    "name": Activity 3.19: Cropping a Picture and Resizing a Picture by Scaling",
+                    "item-type": "folder",
+                    "item-code": "Activity_3.19:_Cropping_a_Picture_and_Resizing_a_Picture_by_Scaling",
+                    "sub-type": "task",
+                    "items": [
+                      {
+                        "name": "Activity 3.19: Cropping a Picture and Resizing a Picture by Scaling",
+                        "item-type": "resource",
+                        "resource": "VIDEO.3.19",
+                        "item-code": "Activity_3.19:_Cropping_a_Picture_and_Resizing_a_Picture_by_Scaling_Video",
+                        "tracking": true
+                      }
+                    ]
                   }
                 ]
               }
@@ -68,6 +83,17 @@
         ],
         "video": {
           "url": "GO16.WD.03.3B.04.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+	  "VIDEO.3.19": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "GO16.WD.03.3B.05.T1.mp4"
         },
         "description": "",
         "learning-objectives": []
