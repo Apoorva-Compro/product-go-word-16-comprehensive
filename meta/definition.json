@@ -85,6 +85,8 @@
     "thumbnaillarge": "cover.jpg",
     "description": "",
     "producttype": "courseware",
-    "type": 3
+    "model": {
+		"type": "type3"
+	}
   }
 }
