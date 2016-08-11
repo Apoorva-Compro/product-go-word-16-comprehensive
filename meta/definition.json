@@ -103,7 +103,7 @@
 		  "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.04.T1"
 		},
 		"description": "",
-		"learning-objectives": {}
+		"learning-objectives": []
 	  },
 	  "VIDEO.3.19": {
         "sub-type": "video",
