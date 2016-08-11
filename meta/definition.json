@@ -48,6 +48,13 @@
                         "resource": "VIDEO.3.18",
                         "item-code": "Activity_3._18:_Inserting_an_Online_Picture_Video",
                         "tracking": true
+                      },
+					  {
+                        "name": "Activity 3.18: Inserting an Online Picture",
+                        "item-type": "resource",
+                        "resource": "PRACTICE.3.18",
+                        "item-code": "Activity_3._18:_Inserting_an_Online_Picture",
+                        "tracking": true                       
                       }
                     ]
                   },
@@ -87,6 +94,17 @@
         "description": "",
         "learning-objectives": []
       },
+	  "PRACTICE.3.18":{
+		"sub-type": "test",
+		"tags": [
+		  "Practice"
+		],
+		"test": {
+		  "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.04.T1"
+		},
+		"description": "",
+		"learning-objectives": {}
+	  },
 	  "VIDEO.3.19": {
         "sub-type": "video",
         "tags": [
