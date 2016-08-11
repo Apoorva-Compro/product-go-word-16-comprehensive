@@ -95,12 +95,12 @@
         "learning-objectives": []
       },
 	  "PRACTICE.3.18":{
-		"sub-type": "test",
+		"sub-type": "video",
 		"tags": [
-		  "Practice"
+		  "Videos"
 		],
-		"test": {
-		  "url": "http://dev2.comprotechnologies.com/sim5dls/SIM5Frame.aspx?resLinkID=taskid:GO16.WD.03.3B.04.T1"
+		"video": {
+		  "url": "GO16.WD.03.3B.05.T1.mp4"
 		},
 		"description": "",
 		"learning-objectives": []
