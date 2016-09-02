@@ -49,12 +49,12 @@
                         "item-code": "Activity_3._18:_Inserting_an_Online_Picture_Video",
                         "tracking": true
                       },
-					  {
+                      {
                         "name": "Activity 3.18: Inserting an Online Picture",
                         "item-type": "resource",
                         "resource": "PRACTICE.3.18",
                         "item-code": "Activity_3._18:_Inserting_an_Online_Picture",
-                        "tracking": true                       
+                        "tracking": true
                       }
                     ]
                   },
@@ -94,18 +94,18 @@
         "description": "",
         "learning-objectives": []
       },
-	  "PRACTICE.3.18":{
-		"sub-type": "video",
-		"tags": [
-		  "Videos"
-		],
-		"video": {
-		  "url": "GO16.WD.03.3B.05.T1.mp4"
-		},
-		"description": "",
-		"learning-objectives": []
-	  },
-	  "VIDEO.3.19": {
+      "PRACTICE.3.18": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "GO16.WD.03.3B.05.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "VIDEO.3.19": {
         "sub-type": "video",
         "tags": [
           "Videos"
@@ -130,7 +130,7 @@
     "description": "",
     "producttype": "courseware",
     "model": {
-		"type": "type3"
-	}
+      "type": "type3"
+    }
   }
 }
